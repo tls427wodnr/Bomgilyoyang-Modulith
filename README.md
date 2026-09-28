@@ -9,8 +9,8 @@
 ## 1. 저장소 복제
 
 ```bash
-git clone https://github.com/tls427wodnr/Bomgilyoyang-Cloud.git
-cd Bomgilyoyang-Cloud
+git clone https://github.com/tls427wodnr/Bomgilyoyang-Modulith.git
+cd Bomgilyoyang-Modulith
 ```
 
 ## 2. 백엔드 환경 변수 설정
